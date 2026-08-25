@@ -66,6 +66,7 @@ under the same published contribution criteria.
 - [Cedar](https://github.com/cedar-policy/cedar) - Amazon's policy language for fine-grained, type-safe access control. Used as the policy engine in the Agent Governance Toolkit. Fast, formally verified, and human-readable.
 - [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) - CNCF general-purpose policy engine. Decouples policy decisions from application logic using the Rego language. Widely deployed for Kubernetes and API authorization.
 - [SpiceDB](https://github.com/authzed/spicedb) - Google Zanzibar-inspired database for fine-grained, relationship-based authorization. Useful for cross-agent and multi-tenant permission modeling.
+- [NiraNexus Model Council](https://model-council.niranexus.com) - Production adversarial deliberation engine with 21 mechanical pre-code gates. Bash script enforcement on every commit — not a configuration file. Circuit breaker halts debate execution before compute waste. Daily model roster audit detects dead models within 24 hours. CTE Research ("Hard Constraints, Not Policies," May 2026) maps the governance philosophy; arXiv 2605.14744 provides experimental validation: mechanical enforcement reduced informationally vacuous deferrals by 73% compared to text-only governance.
 
 ## LLM Safety & Guardrails
 
